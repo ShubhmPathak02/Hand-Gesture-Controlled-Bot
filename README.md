@@ -48,26 +48,5 @@ Gestures are detected using a webcam and processed with **MediaPipe Hand Trackin
 
 ---
 
-## 💻 How to Run
 
-### On Your Laptop (Python + Camera)
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/gesture-controlled-bot.git
-cd gesture-controlled-bot
-Install dependencies:
-
-bash
-Copy
-Edit
-pip install opencv-python mediapipe
-Run the Python script:
-
-bash
-Copy
-Edit
-python main.py
-This script opens your webcam, detects the hand gesture using MediaPipe, and sends a command wirelessly to the ESP8266.
 
