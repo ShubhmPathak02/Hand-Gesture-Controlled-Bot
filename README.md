@@ -5,7 +5,8 @@ Copy
 Edit
 # 🤖 Gesture Controlled Bot using OpenCV & MediaPipe
 
-![Banner](banner.jpg)
+<img src="banner.jpg" alt="Banner" width="200"/>
+
 
 A robot controlled entirely using **hand gestures**, powered by **OpenCV** and **MediaPipe**. Show 1 to 5 fingers to move the bot forward, backward, left, right, or stop — no physical remote required!
 
